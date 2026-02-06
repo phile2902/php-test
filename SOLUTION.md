@@ -69,7 +69,7 @@ Edit these variables in `database.php` if needed:
 ```php
 $host = 'localhost';
 $username = 'root';
-$password = '';
+$password = 'root';
 $database = 'php_test';
 ```
 
